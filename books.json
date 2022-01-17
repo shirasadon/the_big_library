@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "the ring",
+        "publish_date": "2011-12-10"
+
+    },
+    {
+        "id": 2,
+        "name": "The Girl on the Train",
+        "publish_date": "2004-8-10"
+    },
+    {
+        "id":3,
+        "name": "Fifty Shades Trilogy",
+        "publish_date": "2020-1-10"
+    },
+    {
+        "id": 4,
+        "name": "Go Set a Watchman",
+        "publish_date": "2021-10-10"
+    },
+    {
+        "id": 5,
+        "name": "Yes Please",
+        "publish_date": "2002-09-10"
+    },
+    {
+        "id": 6,
+        "name": "Deliciously Ella",
+        "publish_date": "2018-05-06"
+    },
+    {
+        "id": 7,
+        "name": "World Of Andy Warhol Guided Activity Journal",
+        "publish_date": "2022-14-01"
+    }
+]
