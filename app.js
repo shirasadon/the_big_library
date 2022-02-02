@@ -16,9 +16,6 @@ const app = express();
     }
   });
   })
-    
-
-
 app.get('/books', async (req, res) => {
   const id = req.query.id;
   const name = req.query.name;
